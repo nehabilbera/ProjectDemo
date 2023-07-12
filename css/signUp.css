@@ -6,7 +6,7 @@
 }
 body{
     /* background-color: rgb(35, 166, 186);  */
-    background-image: url("pic2.jpg");
+    background-image: url("../Images/pic2.jpg");
     background-size: cover;
 }
 .container{
