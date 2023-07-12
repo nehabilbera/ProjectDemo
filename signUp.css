@@ -68,3 +68,7 @@ button{
     margin-top: 20px;
     font-size: smaller;
 }
+
+.haveAccount a{
+    text-decoration: none;
+}
